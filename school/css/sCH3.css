@@ -1,0 +1,3995 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:600,800,700,500,300,400');
+
+
+.sch3 {
+  width               : 100%;
+  min-width           : 1024px;
+  height              : 100vh;
+  min-height          : 5908px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-animate-enter {
+  opacity             : 0;
+  transform           : translate(0, -25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  -o-animation-delay  : 0.5s;
+  animation-delay     : 0.5s;
+}
+@-webkit-keyframes anima-animate-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter1 {
+  opacity             : 0;
+  transform           : translate(-25px, 0);
+  display             : block;
+  -webkit-animation   : anima-animate-enter1-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter1-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter1-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter1-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter1-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter2 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter2-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter2-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter2-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter2-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 1s;
+  -moz-animation-delay: 1s;
+  -o-animation-delay  : 1s;
+  animation-delay     : 1s;
+}
+@-webkit-keyframes anima-animate-enter2-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter2-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter2-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter2-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter3 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter3-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter3-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter3-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter3-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter3-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter3-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter3-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter3-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter4 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter4-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter4-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter4-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter4-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter4-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter4-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter4-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter4-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter5 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter5-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter5-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter5-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter5-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter5-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter5-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter5-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter5-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter6 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter6-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter6-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter6-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter6-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter6-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter6-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter6-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter6-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter7 {
+  opacity             : 0;
+  transform           : translate(25px, 0);
+  display             : block;
+  -webkit-animation   : anima-animate-enter7-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter7-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter7-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter7-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 1s;
+  -moz-animation-delay: 1s;
+  -o-animation-delay  : 1s;
+  animation-delay     : 1s;
+}
+@-webkit-keyframes anima-animate-enter7-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter7-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter7-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter7-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter8 {
+  opacity             : 0;
+  transform           : translate(0, -25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter8-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter8-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter8-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter8-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  -o-animation-delay  : 0.5s;
+  animation-delay     : 0.5s;
+}
+@-webkit-keyframes anima-animate-enter8-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter8-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter8-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter8-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter9 {
+  opacity             : 0;
+  transform           : translate(25px, 0);
+  display             : block;
+  -webkit-animation   : anima-animate-enter9-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter9-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter9-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter9-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  -o-animation-delay  : 0.5s;
+  animation-delay     : 0.5s;
+}
+@-webkit-keyframes anima-animate-enter9-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter9-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter9-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter9-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter10 {
+  opacity             : 0;
+  transform           : translate(-25px, 0);
+  display             : block;
+  -webkit-animation   : anima-animate-enter10-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter10-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter10-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter10-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter10-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter10-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter10-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter10-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter11 {
+  opacity             : 0;
+  transform           : translate(-25px, 0);
+  display             : block;
+  -webkit-animation   : anima-animate-enter11-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter11-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter11-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter11-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  -o-animation-delay  : 0.5s;
+  animation-delay     : 0.5s;
+}
+@-webkit-keyframes anima-animate-enter11-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter11-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter11-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter11-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter12 {
+  opacity             : 0;
+  transform           : translate(-25px, 0);
+  display             : block;
+  -webkit-animation   : anima-animate-enter12-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter12-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter12-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter12-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  -o-animation-delay  : 0.5s;
+  animation-delay     : 0.5s;
+}
+@-webkit-keyframes anima-animate-enter12-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter12-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter12-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter12-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter13 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter13-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter13-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter13-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter13-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter13-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter13-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter13-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter13-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter14 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter14-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter14-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter14-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter14-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter14-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter14-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter14-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter14-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter15 {
+  opacity             : 0;
+  transform           : translate(-25px, 0);
+  display             : block;
+  -webkit-animation   : anima-animate-enter15-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter15-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter15-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter15-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter15-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter15-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter15-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter15-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter16 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter16-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter16-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter16-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter16-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter16-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter16-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter16-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter16-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter17 {
+  opacity             : 0;
+  transform           : translate(25px, 0);
+  display             : block;
+  -webkit-animation   : anima-animate-enter17-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter17-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter17-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter17-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  -o-animation-delay  : 0.5s;
+  animation-delay     : 0.5s;
+}
+@-webkit-keyframes anima-animate-enter17-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter17-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter17-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter17-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter18 {
+  opacity             : 0;
+  transform           : translate(-25px, 0);
+  display             : block;
+  -webkit-animation   : anima-animate-enter18-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter18-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter18-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter18-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter18-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter18-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter18-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter18-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter19 {
+  opacity             : 0;
+  transform           : translate(25px, 0);
+  display             : block;
+  -webkit-animation   : anima-animate-enter19-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter19-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter19-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter19-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 1s;
+  -moz-animation-delay: 1s;
+  -o-animation-delay  : 1s;
+  animation-delay     : 1s;
+}
+@-webkit-keyframes anima-animate-enter19-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter19-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter19-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter19-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter20 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter20-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter20-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter20-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter20-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  -o-animation-delay  : 0.5s;
+  animation-delay     : 0.5s;
+}
+@-webkit-keyframes anima-animate-enter20-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter20-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter20-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter20-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.sch3 .group23 {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 1029px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group23-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : -10px;
+  align-items         : center;
+  height              : 503px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.sch3 .group23 .group22 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 503px;
+  width               : 1029px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group23 .group22 .group17 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 503px;
+  width               : 1029px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group23 .group22 .group17 .closedschoolmockup2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 491px;
+  width               : 1026px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group23 .group22 .group17 .rectangle3 {
+  background-color    : rgba(13, 12, 12, 1.0);
+  top                 : 0px;
+  height              : 503px;
+  width               : 1028px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+}
+.sch3 .group23 .group18 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 338px;
+  height              : 123px;
+  width               : 804px;
+  position            : absolute;
+  margin              : 0;
+  left                : 36px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group23 .group18 .closedschoolutiliz {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 26.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 32.0px;
+}
+.sch3 .group23 .group18 .rebornschools {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 800;
+  font-style          : normal;
+  font-size           : 56.0px;
+  color               : rgba(234, 199, 67, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.05px;
+  line-height         : 68.0px;
+}
+.sch3 .group19 {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 966px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group19-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 547px;
+  align-items         : center;
+  height              : 315px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.sch3 .group19 .projectinfo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.02px;
+  line-height         : 24.0px;
+}
+.sch3 .group19 .category {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 22.0px;
+}
+.sch3 .group19 .datavisualization {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 51px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 126px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.01px;
+  line-height         : 23.0px;
+}
+.sch3 .group19 .duartion {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 85px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 22.0px;
+}
+.sch3 .group19 .a201807201818 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 84px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 126px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.01px;
+  line-height         : 23.0px;
+}
+.sch3 .group19 .team {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 118px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 22.0px;
+}
+.sch3 .group19 .jihyeonseominsoo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 117px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 127px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.01px;
+  line-height         : 23.0px;
+}
+.sch3 .group19 .myrole {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 194px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 22.0px;
+}
+.sch3 .group19 .datadesign {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 193px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 126px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.01px;
+  line-height         : 23.0px;
+}
+.sch3 .group19 .usedtools {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 227px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 22.0px;
+}
+.sch3 .group19 .pythonillustrator {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 226px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 127px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.01px;
+  line-height         : 23.0px;
+}
+.sch3 .group19 .honors {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 260px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 22.0px;
+}
+.sch3 .group19 .seoulcitybigdata {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 259px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 127px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.01px;
+  line-height         : 23.0px;
+}
+.sch3 .group19 .about {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 333px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.02px;
+  line-height         : 24.0px;
+}
+.sch3 .group19 .thisdatavisualizat {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 54px;
+  height              : auto;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 332px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.01px;
+  line-height         : 23.0px;
+}
+.sch3 .group19 .thisdatavisualizat .span1 {
+  
+}
+.sch3 .group19 .thisdatavisualizat .span2 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+}
+.sch3 .group19 .thisdatavisualizat .span3 {
+  
+}
+.sch3 .group19 .thisdatavisualizat .span4 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+}
+.sch3 .group19 .thisdatavisualizat .span5 {
+  
+}
+.sch3 .group19 .thisdatavisualizat .span6 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+}
+.sch3 .group19 .challenge {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 661px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.02px;
+  line-height         : 24.0px;
+}
+.sch3 .group19 .thisprojectaimsto {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : auto;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 664px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.01px;
+  line-height         : 23.0px;
+}
+.sch3 .group19 .thisprojectaimsto .span1 {
+  
+}
+.sch3 .group19 .thisprojectaimsto .span2 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+}
+.sch3 .group19 .thisprojectaimsto .span3 {
+  
+}
+.sch3 .group19 .thisprojectaimsto .span4 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+}
+.sch3 .group19 .thisprojectaimsto .span5 {
+  
+}
+.sch3 .group24 {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 1633px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 917px;
+  align-items         : center;
+  height              : 4890px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.sch3 .group24 .a2howitworks {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 890px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 339px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 27.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.03px;
+  line-height         : 33.0px;
+}
+.sch3 .group24 .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 799px;
+  width               : 1028px;
+  position            : absolute;
+  margin              : 0;
+  left                : 304px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group3 .a1results {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 33px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 27.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.03px;
+  line-height         : 33.0px;
+}
+.sch3 .group24 .group3 .rectangle {
+  background-color    : rgba(244, 251, 250, 1.0);
+  top                 : 67px;
+  height              : 732px;
+  width               : 1028px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .differentpartsofk {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2266px;
+  height              : auto;
+  width               : 961px;
+  position            : absolute;
+  margin              : 0;
+  left                : 338px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.01px;
+  line-height         : 23.0px;
+}
+.sch3 .group24 .differentpartsofk .span1 {
+  
+}
+.sch3 .group24 .differentpartsofk .span2 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  letter-spacing      : -0.01px;
+}
+.sch3 .group24 .differentpartsofk .span3 {
+  letter-spacing      : -0.01px;
+}
+.sch3 .group24 .differentpartsofk .span4 {
+  font-family         : "AppleSDGothicNeo-Light", Helvetica, Arial, serif;
+  letter-spacing      : -0.01px;
+}
+.sch3 .group24 .differentpartsofk .span5 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  letter-spacing      : -0.01px;
+}
+.sch3 .group24 .differentpartsofk .span6 {
+  letter-spacing      : -0.01px;
+}
+.sch3 .group24 .differentpartsofk .span7 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  letter-spacing      : -0.01px;
+}
+.sch3 .group24 .differentpartsofk .span8 {
+  letter-spacing      : -0.01px;
+}
+.sch3 .group24 .group14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4022px;
+  height              : 153px;
+  width               : 959px;
+  position            : absolute;
+  margin              : 0;
+  left                : 339px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group14 .a4process {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 27.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.03px;
+  line-height         : 33.0px;
+}
+.sch3 .group24 .group14 .statisticsaboutdem {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : auto;
+  width               : 961px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.01px;
+  line-height         : 23.0px;
+}
+.sch3 .group24 .group14 .statisticsaboutdem .span1 {
+  
+}
+.sch3 .group24 .group14 .statisticsaboutdem .span2 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+}
+.sch3 .group24 .group14 .statisticsaboutdem .span3 {
+  
+}
+.sch3 .group24 .group14 .statisticsaboutdem .span4 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+}
+.sch3 .group24 .group14 .statisticsaboutdem .span5 {
+  
+}
+.sch3 .group24 .group14 .statisticsaboutdem .span6 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+}
+.sch3 .group24 .group14 .statisticsaboutdem .span7 {
+  
+}
+.sch3 .group24 .group14 .statisticsaboutdem .span8 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+}
+.sch3 .group24 .group14 .statisticsaboutdem .span9 {
+  
+}
+.sch3 .group24 .group14 .statisticsaboutdem .span10 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+}
+.sch3 .group24 .group11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2542px;
+  height              : 453px;
+  width               : 560px;
+  position            : absolute;
+  margin              : 0;
+  left                : 731px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group11 .currentlythereare {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 556px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : right;
+  letter-spacing      : -0.01px;
+  line-height         : 23.0px;
+}
+.sch3 .group24 .group11 .currentlythereare .span1 {
+  
+}
+.sch3 .group24 .group11 .currentlythereare .span2 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  color               : rgba(253, 203, 78, 1.0);
+  letter-spacing      : -0.01px;
+}
+.sch3 .group24 .group11 .currentlythereare .span3 {
+  letter-spacing      : -0.01px;
+}
+.sch3 .group24 .group11 .currentlythereare .span4 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  color               : rgba(35, 191, 180, 1.0);
+  letter-spacing      : -0.01px;
+}
+.sch3 .group24 .group11 .currentlythereare .span5 {
+  letter-spacing      : -0.01px;
+}
+.sch3 .group24 .group11 .currentlythereare .span6 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  color               : rgba(108, 32, 119, 1.0);
+  letter-spacing      : -0.01px;
+}
+.sch3 .group24 .group11 .publicschoolsthat {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 310px;
+  height              : auto;
+  width               : 458px;
+  position            : absolute;
+  margin              : 0;
+  left                : 102px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : right;
+  letter-spacing      : -0.01px;
+  line-height         : 23.0px;
+}
+.sch3 .group24 .group11 .whatareclosedsc {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 260px;
+  height              : auto;
+  width               : 556px;
+  position            : absolute;
+  margin              : 0;
+  left                : -2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : italic;
+  font-size           : 25.0px;
+  color               : rgba(35, 191, 180, 1.0);
+  text-align          : right;
+  letter-spacing      : -0.02px;
+  line-height         : 34.0px;
+}
+.sch3 .group24 .group4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 70px;
+  height              : 732px;
+  width               : 1006px;
+  position            : absolute;
+  margin              : 0;
+  left                : 337px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group4 .closedschoolmockup {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 732px;
+  width               : 1006px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group4 .userasset1384 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 266px;
+  height              : 373px;
+  width               : 427px;
+  position            : absolute;
+  margin              : 0;
+  left                : 36px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group4 .userasset2384 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 256px;
+  height              : 393px;
+  width               : 461px;
+  position            : absolute;
+  margin              : 0;
+  left                : 462px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group4 .metropolitanareas {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 625px;
+  height              : auto;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 11.12px;
+  color               : rgba(35, 191, 180, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.01px;
+  line-height         : 29.07px;
+}
+.sch3 .group24 .group4 .provincesinkorea {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 625px;
+  height              : auto;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 481px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 11.12px;
+  color               : rgba(100, 41, 116, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.01px;
+  line-height         : 29.07px;
+}
+.sch3 .group24 .group8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1607px;
+  height              : 630px;
+  width               : 1331px;
+  position            : absolute;
+  margin              : 0;
+  left                : 263px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group8 .screenshot20190127at30309am {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -350px;
+  height              : 1330px;
+  width               : 627px;
+  position            : absolute;
+  margin              : 0;
+  left                : 352px;
+  -ms-transform       : rotate(-90.0906524658deg); /* IE 9 */
+  -webkit-transform   : rotate(-90.0906524658deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-90.0906524658deg);
+}
+.sch3 .group24 .group8 .a1772pxsouthkorealocationmapsvg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 615px;
+  width               : 475px;
+  position            : absolute;
+  margin              : 0;
+  left                : 593px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group8 .chilgoku2019sgisanele {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 373px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 747px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.6px;
+  color               : rgba(20, 21, 21, 1.0);
+  text-align          : right;
+  letter-spacing      : -0.01px;
+  line-height         : 15.0px;
+}
+.sch3 .group24 .group8 .chilgoku2019sgisanele .span1 {
+  
+}
+.sch3 .group24 .group8 .chilgoku2019sgisanele .span2 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  color               : rgba(35, 191, 180, 1.0);
+  letter-spacing      : -0.02px;
+}
+.sch3 .group24 .group8 .chilgoku2019sgisanele .span3 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  color               : rgba(35, 191, 180, 1.0);
+  letter-spacing      : -0.02px;
+}
+.sch3 .group24 .group8 .chilgoku2019sgisanele .span4 {
+  letter-spacing      : -0.02px;
+}
+.sch3 .group24 .group8 .chilgoku2019sgisanele .span5 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  color               : rgba(100, 41, 116, 1.0);
+  letter-spacing      : -0.02px;
+}
+.sch3 .group24 .group8 .a3schoolsthathave {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 258px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 893px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.6px;
+  color               : rgba(20, 21, 21, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.01px;
+  line-height         : 15.0px;
+}
+.sch3 .group24 .group8 .rectangle10 {
+  background-color    : rgba(100, 41, 116, 1.0);
+  top                 : 168px;
+  height              : 43px;
+  width               : 272px;
+  position            : absolute;
+  margin              : 0;
+  left                : 765px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group8 .bothareashavehigh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 172px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 774px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 13.5px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.01px;
+  line-height         : 16.0px;
+}
+.sch3 .group24 .group8 .jincheon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 236px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 893px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 16.2px;
+  color               : rgba(100, 41, 116, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 20.0px;
+}
+.sch3 .group24 .group8 .chilgok {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 351px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 877px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 16.2px;
+  color               : rgba(100, 41, 116, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 20.0px;
+}
+.sch3 .group24 .group8 .oval5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 349px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 983px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group8 .oval51 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 236px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 843px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group8 .path4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 244px;
+  height              : 3px;
+  width               : 38px;
+  position            : absolute;
+  margin              : 0;
+  left                : 852px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group8 .path41 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 359px;
+  height              : 6px;
+  width               : 38px;
+  position            : absolute;
+  margin              : 0;
+  left                : 956px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1636px;
+  height              : 571px;
+  width               : 630px;
+  position            : absolute;
+  margin              : 0;
+  left                : 336px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group7 .userasset9384 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 536px;
+  width               : 630px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group7 .provincesinkorea {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 542px;
+  height              : auto;
+  width               : 213px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.4px;
+  color               : rgba(191, 192, 194, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.01px;
+  line-height         : 30.6px;
+}
+.sch3 .group24 .group10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2548px;
+  height              : 816px;
+  width               : 963px;
+  position            : absolute;
+  margin              : 0;
+  left                : 335px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group10 .numberofclosedsc {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 784px;
+  height              : auto;
+  width               : 556px;
+  position            : absolute;
+  margin              : 0;
+  left                : 407px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : right;
+  letter-spacing      : -0.01px;
+  line-height         : 34.0px;
+}
+.sch3 .group24 .group10 .userasset12384 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 815px;
+  width               : 914px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3612px;
+  height              : 322px;
+  width               : 784px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group12 .closedschoolu2019ssale {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
+  height              : auto;
+  width               : 202px;
+  position            : absolute;
+  margin              : 0;
+  left                : 352px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : right;
+  letter-spacing      : -0.01px;
+  line-height         : 23.0px;
+}
+.sch3 .group24 .group12 .closedschoolu2019ssale .span1 {
+  
+}
+.sch3 .group24 .group12 .closedschoolu2019ssale .span2 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  letter-spacing      : -0.01px;
+}
+.sch3 .group24 .group12 .financialaspects {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 556px;
+  position            : absolute;
+  margin              : 0;
+  left                : -2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(253, 203, 78, 1.0);
+  text-align          : right;
+  letter-spacing      : -0.02px;
+  line-height         : 34.0px;
+}
+.sch3 .group24 .group12 .path4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 69px;
+  height              : 38px;
+  width               : 43px;
+  position            : absolute;
+  margin              : 0;
+  left                : 578px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group12 .userasset17384 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 89px;
+  height              : 233px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 551px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2422px;
+  height              : 97px;
+  width               : 1170px;
+  position            : absolute;
+  margin              : 0;
+  left                : 333px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group9 .a3problemdefinitio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 27.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.03px;
+  line-height         : 33.0px;
+}
+.sch3 .group24 .group9 .currentsituation {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 73px;
+  height              : auto;
+  width               : 1168px;
+  position            : absolute;
+  margin              : 0;
+  left                : 2px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 24.0px;
+}
+.sch3 .group24 .whyisthisaproble {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3407px;
+  height              : auto;
+  width               : 1168px;
+  position            : absolute;
+  margin              : 0;
+  left                : 341px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 24.0px;
+}
+.sch3 .group24 .group16 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4568px;
+  height              : 180px;
+  width               : 959px;
+  position            : absolute;
+  margin              : 0;
+  left                : 337px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group16 .thisprojectexperim {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 63px;
+  height              : auto;
+  width               : 961px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.01px;
+  line-height         : 23.0px;
+}
+.sch3 .group24 .group16 .a5reflectionpoints {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 27.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.03px;
+  line-height         : 33.0px;
+}
+.sch3 .group24 .group6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 946px;
+  height              : 639px;
+  width               : 1349px;
+  position            : absolute;
+  margin              : 0;
+  left                : 251px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group6 .screenshot20190127at30309am {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -354px;
+  height              : 1347px;
+  width               : 635px;
+  position            : absolute;
+  margin              : 0;
+  left                : 357px;
+  -ms-transform       : rotate(-90.0906524658deg); /* IE 9 */
+  -webkit-transform   : rotate(-90.0906524658deg); /* Chrome, Safari, Opera */
+  transform           : rotate(-90.0906524658deg);
+}
+.sch3 .group24 .group6 .a1772pxsouthkorealocationmapsvg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3px;
+  height              : 615px;
+  width               : 475px;
+  position            : absolute;
+  margin              : 0;
+  left                : 602px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group6 .incheonu2019seulwangel {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 109px;
+  height              : auto;
+  width               : 208px;
+  position            : absolute;
+  margin              : 0;
+  left                : 574px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.6px;
+  color               : rgba(20, 21, 21, 1.0);
+  text-align          : right;
+  letter-spacing      : -0.01px;
+  line-height         : 15.0px;
+}
+.sch3 .group24 .group6 .incheonu2019seulwangel .span1 {
+  
+}
+.sch3 .group24 .group6 .incheonu2019seulwangel .span2 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  color               : rgba(35, 191, 180, 1.0);
+  letter-spacing      : -0.02px;
+}
+.sch3 .group24 .group6 .incheonu2019seulwangel .span3 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  color               : rgba(35, 191, 180, 1.0);
+  letter-spacing      : -0.02px;
+}
+.sch3 .group24 .group6 .incheonu2019seulwangel .span4 {
+  letter-spacing      : -0.02px;
+}
+.sch3 .group24 .group6 .incheonu2019seulwangel .span5 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  color               : rgba(100, 41, 116, 1.0);
+  letter-spacing      : -0.02px;
+}
+.sch3 .group24 .group6 .incheonu2019seulwangel .span6 {
+  letter-spacing      : -0.02px;
+}
+.sch3 .group24 .group6 .userasset7384 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 23px;
+  height              : 76px;
+  width               : 150px;
+  position            : absolute;
+  margin              : 0;
+  left                : 635px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group6 .oval5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 148px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 800px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group6 .incheonjung {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 164px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 817px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 16.2px;
+  color               : rgba(35, 191, 180, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 20.0px;
+}
+.sch3 .group24 .group6 .path4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 113px;
+  height              : 39px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 791px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group6 .rectangle10 {
+  background-color    : rgba(35, 191, 180, 1.0);
+  top                 : 239px;
+  height              : 43px;
+  width               : 231px;
+  position            : absolute;
+  margin              : 0;
+  left                : 792px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group6 .bothareasareclose {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 243px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 799px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 13.5px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.01px;
+  line-height         : 16.0px;
+}
+.sch3 .group24 .group6 .oval51 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 372px;
+  height              : 18px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 954px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group6 .path41 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 382px;
+  height              : 49px;
+  width               : 11px;
+  position            : absolute;
+  margin              : 0;
+  left                : 960px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group6 .a4schoolsthathave {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 461px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 882px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 12.6px;
+  color               : rgba(20, 21, 21, 1.0);
+  text-align          : right;
+  letter-spacing      : -0.01px;
+  line-height         : 15.0px;
+}
+.sch3 .group24 .group6 .busangijang {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 438px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 935px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 16.2px;
+  color               : rgba(35, 191, 180, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 20.0px;
+}
+.sch3 .group24 .group5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 984px;
+  height              : 573px;
+  width               : 669px;
+  position            : absolute;
+  margin              : 0;
+  left                : 338px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group5 .metropolitanareas {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 537px;
+  height              : auto;
+  width               : 213px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 14.4px;
+  color               : rgba(191, 192, 194, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.01px;
+  line-height         : 30.6px;
+}
+.sch3 .group24 .group5 .userasset5384 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 573px;
+  width               : 655px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3451px;
+  height              : 483px;
+  width               : 955px;
+  position            : absolute;
+  margin              : 0;
+  left                : 678px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group13 .closedschoolneighb {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
+  height              : auto;
+  width               : 403px;
+  position            : absolute;
+  margin              : 0;
+  left                : 253px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.01px;
+  line-height         : 23.0px;
+}
+.sch3 .group24 .group13 .closedschoolneighb .span1 {
+  
+}
+.sch3 .group24 .group13 .closedschoolneighb .span2 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  letter-spacing      : -0.01px;
+}
+.sch3 .group24 .group13 .environmentalaspect {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 556px;
+  position            : absolute;
+  margin              : 0;
+  left                : 253px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(253, 203, 78, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 34.0px;
+}
+.sch3 .group24 .group13 .path4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 23px;
+  height              : 31px;
+  width               : 50px;
+  position            : absolute;
+  margin              : 0;
+  left                : 191px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group13 .path41 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 262px;
+  height              : 40px;
+  width               : 55px;
+  position            : absolute;
+  margin              : 0;
+  left                : 329px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group13 .userasset16384 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 17px;
+  height              : 233px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group13 .userasset18384 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 250px;
+  height              : 233px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 136px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group13 .educationalopportun {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 253px;
+  height              : auto;
+  width               : 213px;
+  position            : absolute;
+  margin              : 0;
+  left                : 401px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.01px;
+  line-height         : 23.0px;
+}
+.sch3 .group24 .group13 .educationalopportun .span1 {
+  
+}
+.sch3 .group24 .group13 .educationalopportun .span2 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  letter-spacing      : -0.01px;
+}
+.sch3 .group24 .group13 .socialaspects {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 212px;
+  height              : auto;
+  width               : 556px;
+  position            : absolute;
+  margin              : 0;
+  left                : 401px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(253, 203, 78, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 34.0px;
+}
+.sch3 .group24 .group15 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4201px;
+  height              : 279px;
+  width               : 960px;
+  position            : absolute;
+  margin              : 0;
+  left                : 338px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group15 .rectangle10 {
+  background-color    : rgba(35, 191, 180, 1.0);
+  top                 : 54px;
+  height              : 77px;
+  width               : 316px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group15 .demographicaldata {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 67px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 31px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.02px;
+  line-height         : 24.0px;
+}
+.sch3 .group24 .group15 .rectangle101 {
+  background-color    : rgba(253, 203, 78, 1.0);
+  top                 : 0px;
+  height              : 44px;
+  width               : 959px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group15 .rectangle102 {
+  background-color    : rgba(100, 41, 116, 1.0);
+  top                 : 235px;
+  height              : 44px;
+  width               : 478px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group15 .metropolitancityin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : auto;
+  width               : 488px;
+  position            : absolute;
+  margin              : 0;
+  left                : 237px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.02px;
+  line-height         : 24.0px;
+}
+.sch3 .group24 .group15 .pcaalgorithm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 244px;
+  height              : auto;
+  width               : 169px;
+  position            : absolute;
+  margin              : 0;
+  left                : 155px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.02px;
+  line-height         : 24.0px;
+}
+.sch3 .group24 .group15 .rectangle103 {
+  background-color    : rgba(100, 41, 116, 1.0);
+  top                 : 235px;
+  height              : 44px;
+  width               : 478px;
+  position            : absolute;
+  margin              : 0;
+  left                : 481px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group15 .tsnealgorithm {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 244px;
+  height              : auto;
+  width               : 169px;
+  position            : absolute;
+  margin              : 0;
+  left                : 635px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.02px;
+  line-height         : 24.0px;
+}
+.sch3 .group24 .group15 .rectangle104 {
+  background-color    : rgba(35, 191, 180, 1.0);
+  top                 : 54px;
+  height              : 77px;
+  width               : 316px;
+  position            : absolute;
+  margin              : 0;
+  left                : 324px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group15 .datarelatedtocult {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 67px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 345px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.02px;
+  line-height         : 17.0px;
+}
+.sch3 .group24 .group15 .datarelatedtocult .span1 {
+  line-height         : 24.0px;
+}
+.sch3 .group24 .group15 .datarelatedtocult .span2 {
+  font-size           : 17.0px;
+  line-height         : 20.0px;
+}
+.sch3 .group24 .group15 .rectangle105 {
+  background-color    : rgba(35, 191, 180, 1.0);
+  top                 : 54px;
+  height              : 77px;
+  width               : 314px;
+  position            : absolute;
+  margin              : 0;
+  left                : 646px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group15 .path5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 151px;
+  height              : 58px;
+  width               : 4px;
+  position            : absolute;
+  margin              : 0;
+  left                : 475px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group15 .path12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : 37px;
+  width               : 62px;
+  position            : absolute;
+  margin              : 0;
+  left                : 447px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group15 .regionalfinanciald {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 67px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 686px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.02px;
+  line-height         : 24.0px;
+}
+.sch3 .group24 .group21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4838px;
+  height              : 52px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1064px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group21 .group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 52px;
+  width               : 233px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group21 .group2 .nextproject {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 24.0px;
+}
+.sch3 .group24 .group21 .group2 .school {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 52px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 181px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group21 .group2 .graphic {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 52px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 181px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group20 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4838px;
+  height              : 52px;
+  width               : 286px;
+  position            : absolute;
+  margin              : 0;
+  left                : 335px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group20 .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 52px;
+  width               : 286px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.sch3 .group24 .group20 .group .previousproject {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 78px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 24.0px;
+}
+.sch3 .group24 .group20 .group .soccer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 52px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

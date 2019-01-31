@@ -1,0 +1,3253 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:700,500,300,600,800');
+
+@font-face {
+                          font-family: "ButlerStencil-Medium";
+                          src: url('../fonts/Butler_Medium_Stencil.otf') format("opentype");
+                        }
+                        
+.zyga4 {
+  width               : 100%;
+  min-width           : 768px;
+  height              : 100vh;
+  min-height          : 5196px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-animate-enter42 {
+  opacity             : 0;
+  transform           : translate(25px, 0);
+  display             : block;
+  -webkit-animation   : anima-animate-enter42-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter42-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter42-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter42-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  -o-animation-delay  : 0.5s;
+  animation-delay     : 0.5s;
+}
+@-webkit-keyframes anima-animate-enter42-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter42-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter42-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter42-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter43 {
+  opacity             : 0;
+  transform           : translate(0, -25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter43-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter43-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter43-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter43-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 1.5s;
+  -moz-animation-delay: 1.5s;
+  -o-animation-delay  : 1.5s;
+  animation-delay     : 1.5s;
+}
+@-webkit-keyframes anima-animate-enter43-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter43-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter43-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter43-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter44 {
+  opacity             : 0;
+  transform           : translate(-25px, 0);
+  display             : block;
+  -webkit-animation   : anima-animate-enter44-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter44-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter44-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter44-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter44-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter44-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter44-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter44-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter45 {
+  display             : block;
+  -webkit-animation   : anima-animate-enter45-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter45-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter45-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter45-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 1s;
+  -moz-animation-delay: 1s;
+  -o-animation-delay  : 1s;
+  animation-delay     : 1s;
+}
+@-webkit-keyframes anima-animate-enter45-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+@-moz-keyframes anima-animate-enter45-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+@-o-keyframes anima-animate-enter45-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+@keyframes anima-animate-enter45-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+.anima-animate-enter46 {
+  opacity             : 0;
+  transform           : translate(-25px, 0);
+  display             : block;
+  -webkit-animation   : anima-animate-enter46-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter46-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter46-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter46-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  -o-animation-delay  : 0.5s;
+  animation-delay     : 0.5s;
+}
+@-webkit-keyframes anima-animate-enter46-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter46-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter46-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter46-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter47 {
+  opacity             : 0;
+  transform           : translate(25px, 0);
+  display             : block;
+  -webkit-animation   : anima-animate-enter47-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter47-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter47-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter47-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 1s;
+  -moz-animation-delay: 1s;
+  -o-animation-delay  : 1s;
+  animation-delay     : 1s;
+}
+@-webkit-keyframes anima-animate-enter47-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter47-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter47-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter47-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter48 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter48-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter48-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter48-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter48-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter48-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter48-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter48-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter48-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter49 {
+  opacity             : 0;
+  transform           : translate(0, -25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter49-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter49-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter49-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter49-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0.699999988079s;
+  -moz-animation-delay: 0.699999988079s;
+  -o-animation-delay  : 0.699999988079s;
+  animation-delay     : 0.699999988079s;
+}
+@-webkit-keyframes anima-animate-enter49-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter49-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter49-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter49-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter50 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter50-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter50-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter50-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter50-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter50-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter50-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter50-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter50-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter51 {
+  opacity             : 0;
+  transform           : translate(25px, 0);
+  display             : block;
+  -webkit-animation   : anima-animate-enter51-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter51-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter51-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter51-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 2s;
+  -moz-animation-delay: 2s;
+  -o-animation-delay  : 2s;
+  animation-delay     : 2s;
+}
+@-webkit-keyframes anima-animate-enter51-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter51-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter51-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter51-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter52 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter52-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter52-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter52-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter52-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  -o-animation-delay  : 0.5s;
+  animation-delay     : 0.5s;
+}
+@-webkit-keyframes anima-animate-enter52-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter52-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter52-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter52-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter53 {
+  display             : block;
+  -webkit-animation   : anima-animate-enter53-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter53-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter53-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter53-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 1s;
+  -moz-animation-delay: 1s;
+  -o-animation-delay  : 1s;
+  animation-delay     : 1s;
+}
+@-webkit-keyframes anima-animate-enter53-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+@-moz-keyframes anima-animate-enter53-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+@-o-keyframes anima-animate-enter53-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+@keyframes anima-animate-enter53-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+.anima-animate-enter54 {
+  display             : block;
+  -webkit-animation   : anima-animate-enter54-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter54-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter54-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter54-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 1.5s;
+  -moz-animation-delay: 1.5s;
+  -o-animation-delay  : 1.5s;
+  animation-delay     : 1.5s;
+}
+@-webkit-keyframes anima-animate-enter54-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+@-moz-keyframes anima-animate-enter54-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+@-o-keyframes anima-animate-enter54-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+@keyframes anima-animate-enter54-frames {
+  0%
+   
+  {
+    }
+  
+    
+  100%
+   
+  {
+    }
+}
+.anima-animate-enter55 {
+  opacity             : 0;
+  transform           : translate(0, -25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter55-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter55-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter55-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter55-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter55-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter55-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter55-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter55-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter56 {
+  opacity             : 0;
+  transform           : translate(0, -25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter56-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter56-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter56-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter56-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0.5s;
+  -moz-animation-delay: 0.5s;
+  -o-animation-delay  : 0.5s;
+  animation-delay     : 0.5s;
+}
+@-webkit-keyframes anima-animate-enter56-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter56-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter56-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter56-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter57 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter57-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter57-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter57-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter57-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 1.5s;
+  -moz-animation-delay: 1.5s;
+  -o-animation-delay  : 1.5s;
+  animation-delay     : 1.5s;
+}
+@-webkit-keyframes anima-animate-enter57-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter57-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter57-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter57-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter58 {
+  opacity             : 0;
+  transform           : translate(-25px, 0);
+  display             : block;
+  -webkit-animation   : anima-animate-enter58-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter58-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter58-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter58-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter58-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter58-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter58-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter58-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(-25px, 0);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter59 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter59-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter59-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter59-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter59-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter59-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter59-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter59-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter59-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter60 {
+  opacity             : 0;
+  transform           : translate(0, 25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter60-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter60-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter60-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter60-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 0s;
+  -moz-animation-delay: 0s;
+  -o-animation-delay  : 0s;
+  animation-delay     : 0s;
+}
+@-webkit-keyframes anima-animate-enter60-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter60-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter60-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter60-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, 25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.anima-animate-enter61 {
+  opacity             : 0;
+  transform           : translate(0, -25px);
+  display             : block;
+  -webkit-animation   : anima-animate-enter61-frames 0.5s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-animate-enter61-frames 0.5s ease-in-out 1 normal forwards;
+  -o-animation        : anima-animate-enter61-frames 0.5s ease-in-out 1 normal forwards;
+  animation           : anima-animate-enter61-frames 0.5s ease-in-out 1 normal forwards;
+  -webkit-animation-delay: 1s;
+  -moz-animation-delay: 1s;
+  -o-animation-delay  : 1s;
+  animation-delay     : 1s;
+}
+@-webkit-keyframes anima-animate-enter61-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-moz-keyframes anima-animate-enter61-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@-o-keyframes anima-animate-enter61-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+@keyframes anima-animate-enter61-frames {
+  0%
+   
+  {
+  opacity: 0;
+  transform: translate(0, -25px);
+    }
+  
+    
+  100%
+   
+  {
+  opacity: 1;
+  transform: translate(0,0);
+    }
+}
+.zyga4 .soccer {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6324px;
+  height              : 52px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1000px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .nextproject {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6338px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 818px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 24.0px;
+}
+.zyga4 .group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 401px;
+  height              : 51px;
+  width               : 126px;
+  position            : absolute;
+  margin              : 0;
+  left                : 921px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group2 .rectangle4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 51px;
+  box-sizing          : border-box;
+  width               : 126px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 25px;
+  border-style        : solid;
+  border-width        : 2px;
+  border-color        : rgba(255, 255, 255, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group2 .website {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 15px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 22.0px;
+}
+.zyga4 .group15 {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 1500px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group15-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : -12px;
+  align-items         : center;
+  height              : 503px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.zyga4 .group15 .group14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 503px;
+  width               : 1500px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group15 .group14 .group4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 503px;
+  width               : 1500px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group15 .group14 .group4 .zygamockup {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 490px;
+  width               : 1500px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group15 .group14 .group4 .rectangle3 {
+  background-color    : rgba(13, 12, 12, 1.0);
+  top                 : 0px;
+  height              : 503px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  opacity             : 0.22;
+}
+.zyga4 .group15 .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 364px;
+  height              : 85px;
+  width               : 684px;
+  position            : absolute;
+  margin              : 0;
+  left                : 385px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group15 .group .wheelregisterands {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 24.0px;
+}
+.zyga4 .group15 .group .zyg344shareyourwhe {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 800;
+  font-style          : normal;
+  font-size           : 46.0px;
+  color               : rgba(250, 129, 43, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.04px;
+  line-height         : 29.0px;
+}
+.zyga4 .group15 .group .zyg344shareyourwhe .span1 {
+  line-height         : 57.0px;
+}
+.zyga4 .group15 .group .zyg344shareyourwhe .span2 {
+  color               : rgba(240, 188, 214, 1.0);
+  letter-spacing      : -0.04px;
+  line-height         : 57.0px;
+}
+.zyga4 .group15 .group .zyg344shareyourwhe .span3 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 800;
+  font-style          : italic;
+  font-size           : 29.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  letter-spacing      : -0.05px;
+  line-height         : 35.0px;
+}
+.zyga4 .group16 {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 731px;
+  height              : 100%;
+  pointer-events      : auto;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group16-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 535px;
+  align-items         : center;
+  height              : 344px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.zyga4 .group16 .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 289px;
+  width               : 484px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group16 .group3 .projectinfo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.02px;
+  line-height         : 24.0px;
+}
+.zyga4 .group16 .group3 .category {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 22.0px;
+}
+.zyga4 .group16 .group3 .webdesign {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 51px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 113px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.01px;
+  line-height         : 23.0px;
+}
+.zyga4 .group16 .group3 .duartion {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 85px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 22.0px;
+}
+.zyga4 .group16 .group3 .a201806201808 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 84px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 113px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.01px;
+  line-height         : 23.0px;
+}
+.zyga4 .group16 .group3 .team {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 118px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 22.0px;
+}
+.zyga4 .group16 .group3 .tommivuorenmaav {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 117px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 114px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.01px;
+  line-height         : 23.0px;
+}
+.zyga4 .group16 .group3 .myrole {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 174px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 22.0px;
+}
+.zyga4 .group16 .group3 .uxdesignimpleme {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 173px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 113px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.01px;
+  line-height         : 23.0px;
+}
+.zyga4 .group16 .group3 .usedtools {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 250px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 22.0px;
+}
+.zyga4 .group16 .group3 .sketchzeplin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 249px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 113px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.01px;
+  line-height         : 23.0px;
+}
+.zyga4 .group16 .group3 .about {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 248px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.02px;
+  line-height         : 24.0px;
+}
+.zyga4 .group16 .group3 .zyg344isawheelregi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 54px;
+  height              : auto;
+  width               : 236px;
+  position            : absolute;
+  margin              : 0;
+  left                : 250px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.01px;
+  line-height         : 23.0px;
+}
+.zyga4 .group16 .group3 .zyg344isawheelregi .span1 {
+  
+}
+.zyga4 .group16 .group3 .zyg344isawheelregi .span2 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  letter-spacing      : -0.01px;
+}
+.zyga4 .group16 .group3 .zyg344isawheelregi .span3 {
+  letter-spacing      : -0.01px;
+}
+.zyga4 .group16 .group3 .zyg344isawheelregi .span4 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  letter-spacing      : -0.01px;
+}
+.zyga4 .group16 .group3 .zyg344isawheelregi .span5 {
+  letter-spacing      : -0.01px;
+}
+.zyga4 .group16 .group3 .zyg344isawheelregi .span6 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  letter-spacing      : -0.01px;
+}
+.zyga4 .group16 .challenge {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 491px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.02px;
+  line-height         : 24.0px;
+}
+.zyga4 .group16 .zyg344hadtobelaunc {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : auto;
+  width               : 239px;
+  position            : absolute;
+  margin              : 0;
+  left                : 494px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.01px;
+  line-height         : 23.0px;
+}
+.zyga4 .group16 .zyg344hadtobelaunc .span1 {
+  
+}
+.zyga4 .group16 .zyg344hadtobelaunc .span2 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  letter-spacing      : -0.01px;
+}
+.zyga4 .group16 .zyg344hadtobelaunc .span3 {
+  letter-spacing      : -0.01px;
+}
+.zyga4 .group16 .zyg344hadtobelaunc .span4 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  letter-spacing      : -0.01px;
+}
+.zyga4 .group16 .zyg344hadtobelaunc .span5 {
+  letter-spacing      : -0.01px;
+}
+.zyga4 .group16 .zyg344hadtobelaunc .span6 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  letter-spacing      : -0.01px;
+}
+.zyga4 .group16 .zyg344hadtobelaunc .span7 {
+  letter-spacing      : -0.01px;
+}
+.zyga4 .group17 {
+  background-color    : rgba(255,255,255,0.0);
+  width               : 1536px;
+  margin-right        : -33px;
+  height              : 100%;
+  pointer-events      : auto;
+  margin-left         : 33px;
+  position            : relative;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17-layout-container {
+  pointer-events      : none;
+  flex-direction      : column;
+  top                 : 915px;
+  align-items         : center;
+  height              : 4215px;
+  width               : 100%;
+  position            : absolute;
+  margin              : 0;
+  display             : flex;
+  left                : 0;
+}
+.zyga4 .group17 .group5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 143px;
+  height              : 324px;
+  width               : 824px;
+  position            : absolute;
+  margin              : 0;
+  left                : 317px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .group5 .rectangle {
+  background-color    : rgba(76, 87, 128, 1.0);
+  top                 : 0px;
+  height              : 324px;
+  width               : 824px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .group5 .a1registerwheels {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 39px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 94px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.4px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.01px;
+  line-height         : 18.0px;
+}
+.zyga4 .group17 .group5 .registerownwheels {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 66px;
+  height              : auto;
+  width               : 179px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 11.2px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : right;
+  letter-spacing      : -0.01px;
+  line-height         : 18.4px;
+}
+.zyga4 .group17 .group5 .a2verifyusers {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 132px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 125px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.4px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.01px;
+  line-height         : 18.0px;
+}
+.zyga4 .group17 .group5 .trustotheruserswi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 158px;
+  height              : auto;
+  width               : 179px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 11.2px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : right;
+  letter-spacing      : -0.01px;
+  line-height         : 18.4px;
+}
+.zyga4 .group17 .group5 .a3borrowwheels {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 225px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 98px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 14.4px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.01px;
+  line-height         : 18.0px;
+}
+.zyga4 .group17 .group5 .borrowwheelsfora {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 251px;
+  height              : auto;
+  width               : 179px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 11.2px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : right;
+  letter-spacing      : -0.01px;
+  line-height         : 18.4px;
+}
+.zyga4 .group17 .zyga {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 65px;
+  height              : 376px;
+  width               : 553px;
+  position            : absolute;
+  margin              : 0;
+  left                : 556px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  transition          : all 0.5s ease-in-out;
+}
+.zyga4 .group17 .zyga:hover {
+  transform           : scale(1.01);
+}
+.zyga4 .group17 .rectangle7 {
+  background-color    : rgba(54, 60, 96, 1.0);
+  top                 : 575px;
+  height              : 194px;
+  width               : 860px;
+  position            : absolute;
+  margin              : 0;
+  left                : 308px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .howcanbicycleswh {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 615px;
+  height              : auto;
+  width               : 1170px;
+  position            : absolute;
+  margin              : 0;
+  left                : 157px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "ButlerStencil-Medium", Helvetica, Arial, serif;
+  font-size           : 41.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.04px;
+  line-height         : 51.0px;
+}
+.zyga4 .group17 .clickthecomputera {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 506px;
+  height              : auto;
+  width               : 731px;
+  position            : absolute;
+  margin              : 0;
+  left                : 369px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 22.0px;
+  color               : rgba(250, 129, 43, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.02px;
+  line-height         : 26.0px;
+}
+.zyga4 .group17 .a3zyg304branding {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2246px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 373px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 27.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.03px;
+  line-height         : 33.0px;
+}
+.zyga4 .group17 .a4eventsorganized {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2987px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 368px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 27.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.03px;
+  line-height         : 33.0px;
+}
+.zyga4 .group17 .userasset223 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2324px;
+  height              : 603px;
+  width               : 1064px;
+  position            : absolute;
+  margin              : 0;
+  left                : 136px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .organizedworkshopw {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3042px;
+  height              : auto;
+  width               : 1168px;
+  position            : absolute;
+  margin              : 0;
+  left                : 368px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 29.0px;
+}
+.zyga4 .group17 .group9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2319px;
+  height              : 88px;
+  width               : 511px;
+  position            : absolute;
+  margin              : 0;
+  left                : 374px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .group9 .brandcolor {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 16.8px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 20.0px;
+}
+.zyga4 .group17 .group9 .userasset193 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 43px;
+  height              : 45px;
+  width               : 510px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .group10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2438px;
+  height              : 105px;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 374px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .group10 .brandlogo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 16.8px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 20.0px;
+}
+.zyga4 .group17 .group10 .userasset203 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 43px;
+  height              : 62px;
+  width               : 152px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .group11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2568px;
+  height              : 140px;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 374px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .group11 .brandtypeface {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 16.8px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 20.0px;
+}
+.zyga4 .group17 .group11 .userasset213 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 36px;
+  height              : 104px;
+  width               : 118px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .registerwheels {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1539px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 368px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 24.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 29.0px;
+}
+.zyga4 .group17 .zygamockup2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1578px;
+  height              : 608px;
+  width               : 644px;
+  position            : absolute;
+  margin              : 0;
+  left                : 475px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .zygamockup6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1765px;
+  height              : 437px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 343px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .zygamockup7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 829px;
+  height              : 670px;
+  width               : 1170px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .a296647607758624792791847736406513942862169o {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3134px;
+  height              : 305px;
+  width               : 710px;
+  position            : absolute;
+  margin              : 0;
+  left                : 379px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .a296647607758624792791847736406513942862169o .mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 305px;
+  width               : 710px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .a296647607758624792791847736406513942862169o .a296647607758624792791847736406513942862169o1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -159px;
+  height              : 539px;
+  width               : 719px;
+  position            : absolute;
+  margin              : 0;
+  left                : -5px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .a2882699917887003678280952177126191100415455o {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3440px;
+  height              : 286px;
+  width               : 406px;
+  position            : absolute;
+  margin              : 0;
+  left                : 684px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .rectangle6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3134px;
+  height              : 305px;
+  box-sizing          : border-box;
+  width               : 710px;
+  position            : absolute;
+  margin              : 0;
+  left                : 379px;
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(48, 47, 47, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .rectangle61 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3440px;
+  height              : 287px;
+  box-sizing          : border-box;
+  width               : 406px;
+  position            : absolute;
+  margin              : 0;
+  left                : 684px;
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(48, 47, 47, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .a289477547743479927639666718395409748881570o {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3440px;
+  height              : 287px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 379px;
+  overflow            : hidden;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .a289477547743479927639666718395409748881570o .mask {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 287px;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .a289477547743479927639666718395409748881570o .a289477547743479927639666718395409748881570o1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 290px;
+  width               : 525px;
+  position            : absolute;
+  margin              : 0;
+  left                : -8px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .rectangle62 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3440px;
+  height              : 287px;
+  box-sizing          : border-box;
+  width               : 304px;
+  position            : absolute;
+  margin              : 0;
+  left                : 379px;
+  border-style        : solid;
+  border-width        : 0px;
+  border-color        : rgba(48, 47, 47, 1.0);
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .group7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1139px;
+  height              : 407px;
+  width               : 515px;
+  position            : absolute;
+  margin              : 0;
+  left                : 178px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .group7 .line2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 69px;
+  height              : 107px;
+  width               : 78px;
+  position            : absolute;
+  margin              : 0;
+  left                : 330px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .group7 .searchforwheelsth {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 89px;
+  height              : auto;
+  width               : 335px;
+  position            : absolute;
+  margin              : 0;
+  left                : -6px;
+  -ms-transform       : rotate(36deg); /* IE 9 */
+  -webkit-transform   : rotate(36deg); /* Chrome, Safari, Opera */
+  transform           : rotate(36deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 11.2px;
+  color               : rgba(54, 60, 96, 1.0);
+  text-align          : right;
+  letter-spacing      : -0.01px;
+  line-height         : 11.2px;
+}
+.zyga4 .group17 .group7 .searchforwheelsth .span1 {
+  line-height         : 18.4px;
+}
+.zyga4 .group17 .group7 .searchforwheelsth .span2 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  line-height         : 18.4px;
+}
+.zyga4 .group17 .group7 .searchforwheelsth .span3 {
+  line-height         : 18.4px;
+}
+.zyga4 .group17 .group7 .borrowwheelsthroug {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 262px;
+  height              : auto;
+  width               : 208px;
+  position            : absolute;
+  margin              : 0;
+  left                : 301px;
+  -ms-transform       : rotate(36deg); /* IE 9 */
+  -webkit-transform   : rotate(36deg); /* Chrome, Safari, Opera */
+  transform           : rotate(36deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 11.2px;
+  color               : rgba(54, 60, 96, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.01px;
+  line-height         : 11.2px;
+}
+.zyga4 .group17 .group7 .borrowwheelsthroug .span1 {
+  line-height         : 18.4px;
+}
+.zyga4 .group17 .group7 .borrowwheelsthroug .span2 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  line-height         : 18.4px;
+}
+.zyga4 .group17 .group7 .oval6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 169px;
+  height              : 12px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 325px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .group7 .line21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 101px;
+  height              : 107px;
+  width               : 78px;
+  position            : absolute;
+  margin              : 0;
+  left                : 372px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .group7 .oval61 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 201px;
+  height              : 12px;
+  width               : 12px;
+  position            : absolute;
+  margin              : 0;
+  left                : 366px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .startingfrommeetin {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3850px;
+  height              : auto;
+  width               : 731px;
+  position            : absolute;
+  margin              : 0;
+  left                : 372px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.01px;
+  line-height         : 23.0px;
+}
+.zyga4 .group17 .a5reflectionpoints {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 3787px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 372px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 27.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.03px;
+  line-height         : 33.0px;
+}
+.zyga4 .group17 .group6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 856px;
+  height              : 79px;
+  width               : 264px;
+  position            : absolute;
+  margin              : 0;
+  left                : 368px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .group6 .a2zyg304features {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 27.0px;
+  color               : rgba(250, 129, 43, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.03px;
+  line-height         : 33.0px;
+}
+.zyga4 .group17 .group6 .borrowwheels {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 55px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 600;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(250, 129, 43, 1.0);
+  text-align          : center;
+  letter-spacing      : -0.02px;
+  line-height         : 24.0px;
+}
+.zyga4 .group17 .a1zyg304interface {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 372px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 27.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.03px;
+  line-height         : 33.0px;
+}
+.zyga4 .group17 .group8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1645px;
+  height              : 253px;
+  width               : 393px;
+  position            : absolute;
+  margin              : 0;
+  left                : 367px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .group8 .registerwheelsbyf {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 392px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 300;
+  font-style          : normal;
+  font-size           : 14.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.01px;
+  line-height         : 23.0px;
+}
+.zyga4 .group17 .group8 .registerwheelsbyf .span1 {
+  
+}
+.zyga4 .group17 .group8 .registerwheelsbyf .span2 {
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  color               : rgba(250, 129, 43, 1.0);
+  letter-spacing      : -0.01px;
+}
+.zyga4 .group17 .group8 .registerwheelsbyf .span3 {
+  letter-spacing      : -0.01px;
+}
+.zyga4 .group17 .group8 .zygamockup61 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 160px;
+  height              : 92px;
+  width               : 92px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .group8 .zygamockup61 .zygamockup62 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 92px;
+  width               : 92px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .group8 .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 159px;
+  height              : 94px;
+  width               : 94px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .group8 .line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 52px;
+  height              : 114px;
+  width               : 3px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .group12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4163px;
+  height              : 52px;
+  width               : 286px;
+  position            : absolute;
+  margin              : 0;
+  left                : 370px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .group12 .previousproject {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 78px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 24.0px;
+}
+.zyga4 .group17 .group12 .mari {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 52px;
+  width               : 52px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .group13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4163px;
+  height              : 52px;
+  width               : 233px;
+  position            : absolute;
+  margin              : 0;
+  left                : 866px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+.zyga4 .group17 .group13 .nextproject1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 20.0px;
+  color               : rgba(64, 64, 64, 1.0);
+  text-align          : left;
+  letter-spacing      : -0.02px;
+  line-height         : 24.0px;
+}
+.zyga4 .group17 .group13 .soccer1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 52px;
+  width               : 51px;
+  position            : absolute;
+  margin              : 0;
+  left                : 182px;
+  -ms-transform       : rotate(0deg); /* IE 9 */
+  -webkit-transform   : rotate(0deg); /* Chrome, Safari, Opera */
+  transform           : rotate(0deg);
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}

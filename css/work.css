@@ -1,0 +1,248 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    color: #414042;
+}
+
+
+.background-index {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: -50;
+    background-color: #fff;
+}
+
+.background-mask {
+    background-color: rgba(90,90,90,.8);
+    z-index: -50;
+    position: fixed;
+    top: 0;
+    height: 100%;
+    width: 100%;
+}
+
+h1 {
+    font-size: 25px;
+    margin: 1%;
+    font-weight: 50;
+    color: #414042;
+}
+
+h2 {
+    font-size: 16px;
+    color: #414042;
+    margin: 5px;
+}
+
+h4 {
+    font-weight: 100;
+    font-size: 18px;
+}
+
+.btn, .btn-outline-light{
+    font-weight: 70;
+    font-size: 16px;
+    text-decoration: underline;
+    color: #414042;
+}
+.btn:hover, .btn-outline-light:hover{
+    font-weight: 160;
+    text-decoration: underline;
+    color: #FECB4D;
+    font-size: 18px;
+}
+
+a {
+    color: #414042;
+    cursor: pointer;
+}
+
+a:hover, a:active, a:link, a::after {
+    color: #414042;
+    /*color: #55ccbb;*/
+    text-decoration: none;
+}
+
+
+
+.p_title {
+    font-weight: 1000;
+    font-size: 15px;
+    margin-top: 6%;
+}
+
+#title_nori:hover {
+    font-weight: 1000;
+    color: #80E6DB;
+    font-size: 15px;
+    margin-top: 6%;
+}
+#img_nori:hover {
+    height: 52%;
+    width: 52%;
+}
+
+#title_data:hover {
+    font-weight: 1000;
+    color: #80E6DB;
+    font-size: 15px;
+    margin-top: 6%;
+}
+#img_data:hover {
+    height: 52%;
+    width: 52%;
+}
+#title_soccer:hover {
+    font-weight: 1000;
+    color: #B9C20A;
+    font-size: 15px;
+    margin-top: 6%;
+}
+#img_soccer:hover {
+    height: 52%;
+    width: 52%;
+}
+#title_school:hover {
+    font-weight: 1000;
+    color: #B9C20A;
+    font-size: 15px;
+    margin-top: 6%;
+}
+#img_school:hover {
+    height: 52%;
+    width: 52%;
+}
+#title_mari:hover {
+    font-weight: 1000;
+    color: #783784;
+    font-size: 15px;
+    margin-top: 6%;
+}
+#img_mari:hover {
+    height: 52%;
+    width: 52%;
+}
+#title_zyga:hover {
+    font-weight: 1000;
+    color: #783784;
+    font-size: 15px;
+    margin-top: 6%;
+}
+#img_zyga:hover {
+    height: 52%;
+    width: 52%;
+}
+#title_42:hover {
+    font-weight: 1000;
+    color: #80E6DB;
+    font-size: 15px;
+    margin-top: 6%;
+}
+#img_42:hover {
+    height: 52%;
+    width: 52%;
+}
+#title_graphic:hover {
+    font-weight: 1000;
+    color: #FDCB4E;
+    font-size: 15px;
+    margin-top: 6%;
+}
+#img_graphic:hover {
+    height: 52%;
+    width: 52%;
+}
+
+.row {
+    padding-bottom: 3%;
+}
+.splash_work {
+    margin-top: 5%;
+    text-align: center;
+    z-index: 100;
+    position: relative;
+}
+
+#grid-area {
+    width:'';
+    margin-left: auto;
+    margin-right: auto;
+    overflow: hidden;
+}
+
+#grid {
+    /*margin-top: 50px;*/
+    width: '';
+    height: '';
+}
+
+.gridbox_0 {
+    width: 25%;
+    height: 100%;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+}
+
+.gridbox_1 {
+    width: 25%;
+    height: 100%;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+}
+
+.gridbox_2 {
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+}
+
+#grid-work {
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-right: 10%;
+}
+#legend {
+    margin-bottom: 4%;
+}
+
+#legend_p {
+    display: inline;
+    margin-right: 3%;
+}
+
+.unsplash{
+    margin-top: 3%;
+}
+.dot {
+    margin: 0 auto;
+    margin-left: 50%;
+    height: 14px;
+    width: 14px;
+    border-radius: 100%;
+    background-color: #eee;
+    padding: 2.5px;
+}
+
+
+
+#canvas {
+    position: absolute;
+    top: 0;
+}
+
+#mobile-warning {
+    visibility: hidden;
+}
+
+@media (max-width: 400px) {
+    #mobile-warning { visibility: visible; }
+    #canvas { visibility: hidden; }
+    #grid-area { visibility: hidden; }
+    h1 { font-size: 30px; }
+    h2 { font-size: 22px; }
+}

@@ -241,8 +241,8 @@ a:hover, a:active, a:link, a::after {
 
 @media (max-width: 400px) {
     #mobile-warning { visibility: visible; }
-    #canvas { visibility: hidden; }
-    #grid-area { visibility: hidden; }
+    #canvas { visibility: visible; }
+    #grid-area { visibility: visible; }
     h1 { font-size: 30px; }
     h2 { font-size: 22px; }
 }
